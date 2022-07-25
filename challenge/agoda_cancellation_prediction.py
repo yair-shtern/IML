@@ -297,4 +297,4 @@ if __name__ == '__main__':
     # df_test_week10, cancellation_labels_week10 = load_data("datasets/test sets/week_10_test_data.csv", False)
 
     # Store model predictions over test set
-    # evaluate_and_export(estimator, df_test_week10, "318442241_208916221_207557935.csv")
+    # evaluate_and_export(estimator, df_test_week10, "prediction.csv")
